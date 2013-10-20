@@ -11,3 +11,6 @@ else if guessNumber > number then
 	puts "Too high"
 else if guessNumber < number then
 	puts "Too low"
+else
+	puts "Bye"
+end
